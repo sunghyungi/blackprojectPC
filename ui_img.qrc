@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>right.png</file>
+        <file>up.png</file>
+        <file>left.png</file>
+        <file>down.png</file>
+        <file>clock.png</file>
+        <file>cclock.png</file>
+        <file>reduce.png</file>
+        <file>extend.png</file>
+        <file>car.png</file>
+        <file>people.png</file>
+    </qresource>
+</RCC>
