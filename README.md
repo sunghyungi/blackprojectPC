@@ -12,7 +12,7 @@
 ### 3channel
 <img src="/image/3channel.png" width="550px" height="300px" title="" alt="3channel"></img><br/>
 
-## Blue
+### Blue
 <img src="/image/blue.png" width="550px" height="300px" title="" alt="blue"></img><br/>
 
 ### Cyan
